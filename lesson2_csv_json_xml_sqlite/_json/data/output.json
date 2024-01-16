@@ -1,0 +1,17 @@
+{
+    "first_name": "Taras",
+    "last_name": "Shevchenko",
+    "birth_date": {
+        "value": "15.07.1815",
+        "__date__": true
+    },
+    "hired_at": {
+        "value": "26.10.1830 12:30:05",
+        "__datetime__": true
+    },
+    "hobbies": [
+        "cobza",
+        "poems",
+        "study"
+    ]
+}
